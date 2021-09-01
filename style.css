@@ -1,0 +1,326 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    margin-top: -14%;
+    margin-left: 18px;
+    margin-right: 18px;
+
+}
+
+h1{
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    margin-left: 20px;
+    text-align: left, center;
+    padding-top: 20px;
+
+}
+
+h2{
+    width: 100%;
+    height: 18px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+    padding: 14px;
+
+}
+
+#pesquisar{
+    margin-left: 80%;
+    
+}
+
+header{
+    
+   
+    background-color: #00A2DA;
+    padding-bottom: 20%;
+    color: white;
+    
+}
+
+img{
+    border-radius: 5px;
+    
+}
+
+#notificacao{
+    left: 40px;
+    position: absolute;
+    bottom: calc(40% - 12px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: lime;
+    color: white;
+    font-size: 6px;
+}
+
+#notificacao2{
+    left: 58px;
+    position: absolute;
+    bottom: calc(68% - 4px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    font-size: 6px;
+}
+
+#notificacao3{
+    left: 67px;
+    position: absolute;
+    bottom: calc(68% - 4px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    font-size: 6px;
+}
+
+#notificacao4{
+    left: 57px;
+    position: absolute;
+    bottom: calc(71% - 82px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    font-size: 6px;
+}
+
+
+#notificacao5{
+    left: 39px;
+    position: absolute;
+    bottom: calc(90% - 41px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    font-size: 6px;
+}
+
+#received{
+    left: 76px;
+    position: absolute;
+    bottom: calc(40% - 12px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+   color: lime;
+   font-size: 10px;
+}
+
+#sent{
+    left: 88px;
+    position: absolute;
+    bottom: calc(71% - 23px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    color: orange;
+    font-size: 10px;
+
+}
+
+#topup{
+    left: 83px;
+    position: absolute;
+    bottom: calc(60% - 10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 10px;
+    color: orange;
+    font-size: 9px;
+}
+
+
+
+#topup2{
+    left: 61px;
+    position: absolute;
+    bottom: calc(56% - 20px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 10px;
+    color: orange;
+    font-size: 9px;
+}
+
+body{
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #e2e2e2;
+}
+
+  
+
+#bloco0 {
+    position: relative;
+    
+    padding-top: 15px;
+    justify-content: space-between;
+    display: flex;
+    background-color: white;
+    font-size: 12px;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px;
+}
+
+#bloco1 {
+    padding-top: 15px;
+    justify-content: space-between;
+    display: flex;
+    background-color: white;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px;
+    font-size: 12px;
+}
+
+#bloco3{
+        /* margin-top: 0px; */
+        position: relative;
+        padding-top: 15px;
+        justify-content: space-between;
+        display: flex;
+        background-color: white;
+        border-bottom: 1px solid #78767b;
+        border-radius: 3px 3px 5px 5px;
+        padding: 10px;
+        font-size: 12px;
+        height: 60px;
+    }
+    #bloco4{
+         /* margin-top: 0px; */
+         position: relative;
+         padding-top: 15px;
+         justify-content: space-between;
+         display: flex;
+         background-color: white;
+         border-bottom: 1px solid #78767b;
+         border-radius: 3px 3px 5px 5px;
+         padding: 10px;
+         font-size: 12px;
+         height: 60px;
+    }
+
+    #bloco5{
+         /* margin-top: 0px; */
+         position: relative;
+         padding-top: 15px;
+         justify-content: space-between;
+         display: flex;
+         background-color: white;
+         border-bottom: 1px solid #78767b;
+         border-radius: 3px 3px 5px 5px;
+         padding: 10px;
+         font-size: 12px;
+         height: 60px;
+    }
+
+
+#nome{
+    font-family: Arial, sans-serif;
+    margin-right: 45px;
+    padding-top: 8px;
+    font-size: 12px;
+}
+
+#valor{
+    font-family: Arial, sans-serif;
+    padding-top: 8px;
+
+}
+
+
+
+#GA{
+    display: flex;
+    justify-content: space-between;
+    width: 35px;
+    height: 35px;
+    padding-bottom: 25%;
+    background-color: #00A2DA;
+    border-radius: 2px, 2px, 2px, 2px;
+    font-size: 12px;
+    color: white;
+    border-radius: 20%;
+    text-align: center;
+    font-family: arial, sans-serif;
+    padding: 9px;
+}
+
+#data{
+    width: 100%;
+    height: 18px;
+    margin-top: 10px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+    padding: 14px;
+
+}
+
+#OH{
+    display: flex;
+    justify-content: space-between;
+    width: 35px;
+    height: 35px;
+    padding-bottom: 25%;
+    background-color: #cc8bfa;
+    border-radius: 2px, 2px, 2px, 2px;
+    font-size: 12px;
+    color: white;
+    border-radius: 20%;
+    text-align: center;
+    font-family: arial, sans-serif;
+    padding: 9px;
+
+}
+footer{
+    color: lightgrey;
+    font-size: 21px;
+    background-color: white;
+    height: 70px;
+    border-radius: 25px;
+    margin-top: 6px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
